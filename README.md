@@ -241,8 +241,6 @@ nav ul li a:hover {
 }
 
 .product-name {
-
-مهمات, [9/5/2025 2:23 AM]
 font-weight: 600;
   margin-bottom: 10px;
   font-size: 1.1rem;
